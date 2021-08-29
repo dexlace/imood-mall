@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5414c309-d618-4dbf-9c39-9406d347f2c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\softwareOfDevelopment\repository" />
+        <option name="mavenHome" value="D:/softwareOfDevelopment/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\softwareOfDevelopment\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wXlzZrQQr7AVL55ru3j2kY45YP" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imood-mall-parent/imood-mall-service-api/imood-service-goods-api/src/main/java/com/dexlace/goods/entity" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\imood-mall\imood-mall-parent\imood-mall-service-api\imood-service-goods-api\src\main\java\com\dexlace\goods\entity" />
+      <recent name="E:\imood-mall\imood-mall-parent\imood-mall-common\src\main\java\com\dexlace\common\utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RegisterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="imood-mall-register" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dexlace.mall.register.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dexlace.mall.register.RegisterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RegisterApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5414c309-d618-4dbf-9c39-9406d347f2c2" name="Default Changelist" comment="" />
+      <created>1628613076224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628613076224</updated>
+      <workItem from="1628613078237" duration="8232000" />
+      <workItem from="1630229643544" duration="3182000" />
+      <workItem from="1630237570820" duration="3607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="302" y="122" width="1159" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628614595907">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="302" y="122" width="1159" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.525.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1628614595907" />
+    <state x="634" y="216" key="FileChooserDialogImpl" timestamp="1630247261174">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="634" y="216" key="FileChooserDialogImpl/2560.525.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1630247261174" />
+    <state x="355" y="103" key="SettingsEditor" timestamp="1630247265815">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="355" y="103" key="SettingsEditor/2560.525.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1630247265815" />
+    <state x="64" y="48" key="new project wizard" timestamp="1630243762109">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="483" y="128" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1628613105896" />
+    <state x="64" y="48" key="new project wizard/2560.525.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1630243762109" />
+    <state x="42" y="111" width="1133" height="773" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1630242844316">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="42" y="111" width="1133" height="773" key="org.intellij.images.editor.actions.BackgroundImageDialog/2560.525.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1630242844316" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1630236925008">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/2560.525.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1630236925008" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/imood-mall.iml" filepath="$PROJECT_DIR$/.idea/imood-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imood-mall-parent/imood-mall-common/imood-mall-common.iml" filepath="$PROJECT_DIR$/imood-mall-parent/imood-mall-common/imood-mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imood-mall-parent/imood-mall-common-db/imood-mall-common-db.iml" filepath="$PROJECT_DIR$/imood-mall-parent/imood-mall-common-db/imood-mall-common-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imood-mall-parent/imood-mall-controller/imood-mall-controller.iml" filepath="$PROJECT_DIR$/imood-mall-parent/imood-mall-controller/imood-mall-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imood-mall-parent/imood-mall-gateway/imood-mall-gateway.iml" filepath="$PROJECT_DIR$/imood-mall-parent/imood-mall-gateway/imood-mall-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imood-mall-parent/imood-mall-parent.iml" filepath="$PROJECT_DIR$/imood-mall-parent/imood-mall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imood-mall-parent/imood-mall-register/imood-mall-register.iml" filepath="$PROJECT_DIR$/imood-mall-parent/imood-mall-register/imood-mall-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imood-mall-parent/imood-mall-service/imood-mall-service.iml" filepath="$PROJECT_DIR$/imood-mall-parent/imood-mall-service/imood-mall-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imood-mall-parent/imood-mall-service-api/imood-mall-service-api.iml" filepath="$PROJECT_DIR$/imood-mall-parent/imood-mall-service-api/imood-mall-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imood-mall-parent/imood-mall-service/imood-service-goods/imood-service-goods.iml" filepath="$PROJECT_DIR$/imood-mall-parent/imood-mall-service/imood-service-goods/imood-service-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imood-mall-parent/imood-mall-service-api/imood-service-goods-api/imood-service-goods-api.iml" filepath="$PROJECT_DIR$/imood-mall-parent/imood-mall-service-api/imood-service-goods-api/imood-service-goods-api.iml" />
+    </modules>
+  </component>
+</project>
